@@ -1,0 +1,110 @@
+header{
+    text-align:center;
+    font-size: 40px;
+    
+}
+header img{
+    border-radius:40%;
+    padding-bottom: 12px;
+    
+}
+body{
+  background: url(https://www.zoracreative.com/wp-content/uploads/2014/01/fibonacci.jpg) no-repeat center scroll;
+  background-size: cover;
+  background-blend-mode: luminosity;
+}
+
+
+ul, li{
+    display: inline;
+    padding: 150px;
+    font-size: 20px;
+    margin:0px;
+}
+
+.wat{
+    background-color:#99ccff;
+    padding: 20px 60px;
+    margin:10px; 
+}
+.wh{
+    background-color: #33cccc;
+    padding: 20px 60px;
+    margin:10px;
+}
+.numb{
+    background-color: #ccffcc;
+    padding: 20px 60px;
+    margin:10px;
+}
+.con{
+    background-color: #ffffcc;
+    padding: 20px 60px;
+    margin:10px;
+}
+
+.title{
+    background-color: darksalmon;
+
+}
+
+.represent{
+    background-color:#99ccff ;
+}
+ul{
+    font: size 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+#who{
+    background-color:#33cccc;
+}
+#numbers{
+    background-color:#ccffcc
+}
+table{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-collapse: collapse; 
+    border: black 2px solid ; 
+    
+    
+}
+td, th{
+    border-collapse: collapse;
+    border: 1.5px solid black;
+    padding: 5px;
+}
+td:hover, th:hover{
+    background-color: rgb(185, 190, 118);
+}
+th{
+    background-color: olive;
+}
+#img{
+    position: relative;
+    float: right;
+    height:200px;
+    width:300px
+}
+#conclusion{
+    background-color: #ffffcc;
+}
+.B1{
+    color:white;
+    background-color:blue;
+    padding:8px;
+    margin:10px;
+    border-radius:40%;
+    box-shadow:0 15px 16px 0 rgba(24, 6, 83, 0.781), 0 6px 20px 0 rgba(0,0,0,0.19)
+}
+.B2{
+    background-color:red;
+    padding:8px;
+    margin:2px;
+    border-radius:40%;
+    box-shadow:0 15px 16px 0 rgba(168, 33, 33, 0.904), 0 6px 20px 0 rgba(0,0,0,0.19)
+}
+
+     
+       
+
